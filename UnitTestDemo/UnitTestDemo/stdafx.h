@@ -11,7 +11,7 @@
 #include <tchar.h>
 
 #include <Windows.h>
-#include "../Utility/ImageCompare/ImageCompare.h"
+#include "../../Utility/ImageCompare/ImageCompare.h"
 
 //#ifdef _DEBUG
 //#pragma comment( lib, "../Debug/ImageCompare.lib" )
