@@ -1,6 +1,8 @@
 /ThirdLibrary/
-/Utility/ImageCompare/Debug/
+Debug/
+Release/
 *.sdf
 *.opensdf
+*.user
 .vs
 ipch/
